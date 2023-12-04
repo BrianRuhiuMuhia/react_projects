@@ -1,0 +1,22 @@
+.accordian-item{
+  display:flex;
+  flex-direction: column;
+  border-bottom:solid 2px black;
+}
+.accordion{
+  box-shadow:4px 4px 10px 3px whitesmoke,-2px -2px 10px 3px whitesmoke; 
+  /* height:100px; */
+  padding:1em;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 1.2em;
+}
+.accordion-title{
+  display:flex;
+  flex-direction: row;
+  justify-content: space-between;
+  background-color: white;
+}
+.accordion-content{
+  
+
+}
