@@ -1,9 +1,8 @@
-import Accordian from "../src/components/accordian/index"
+import RandomColor from "../src/components/randomColorGenerator/index"
 function App() {
 
   return (<div>
-    <Accordian/>
-
+    <RandomColor/>
   </div>)
 }
 

@@ -1,4 +1,4 @@
-const people = [
+const data = [
     {
       name: "John",
       age: 30,
@@ -15,4 +15,4 @@ const people = [
       occupation: "Teacher"
     }
   ];
-  export default people
+  export default data
